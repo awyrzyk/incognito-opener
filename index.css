@@ -1,0 +1,38 @@
+body {
+
+    background-color: #b6cae9;
+    text-align: center;
+    border: 2px solid black;
+    margin: 0;
+    padding: 0px 10px;
+    min-width: 200px;
+
+}
+
+input[type="text"] {
+
+    border: 2px solid #4f5f98;
+    border-radius: 5px;
+    outline: none;
+    margin-bottom: 5px;
+    padding: 3px;
+}
+
+#goToIncognito {
+    border: none;
+    border-radius: 50px;
+    background-color: #c0b7b0;
+    margin: 10px;
+    padding: 5px 10px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#goToIncognito:hover {
+    background-color: #b0a6a0;
+    cursor: pointer;
+}
+
+.fa {
+    font-size: 12px;
+}

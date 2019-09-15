@@ -1,0 +1,10 @@
+{
+  "name": "Incognito Opener",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "This is a chrome extension that allows you to open the pages in incognito window",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "index.html"
+  }
+}
